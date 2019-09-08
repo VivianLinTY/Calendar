@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calendar</string>
+    <string name="new_nickname">nickname</string>
+    <string name="login_account">account</string>
+    <string name="login_password">password</string>
+    <string name="new_login_account">new account</string>
+    <string name="new_login_password">new password</string>
+    <string name="password_check">You entered different passwords</string>
+    <string name="account_check">Account or password is incorrect</string>
+    <string name="account_dupicate">Account is exist</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="login_password_confirmed">re-enter new password</string>
+    <string name="something_error">Connection failed. Please try again later.</string>
+    <string name="tab_contact_list">Contact List</string>
+    <string name="tab_calendar">Calendar List</string>
+    <string name="tab_calendar_list">Calendar</string>
+    <string name="loading">Loading...,please wait.</string>
+    <string name="my_calendar">My Calendar</string>
+    <string name="calendar_list">Calendar Group</string>
+    <string name="my_contacts">Contact</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="add_contacts">Add Contact</string>
+    <string name="add_calendar">Add Calendar Group</string>
+    <string name="TimePicker">Set Time</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+</resources>

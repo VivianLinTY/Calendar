@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="265" key="DIALOG_WIDTH"/>
+		<item value="409" key="DIALOG_Y_ORIGIN"/>
+		<item value="1520" key="DIALOG_X_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="btn_share" key="selection"/>
+		<list key="findhistory">
+			<item value="btn_share"/>
+			<item value="share"/>
+			<item value="dialog_"/>
+			<item value="btn_keyid"/>
+			<item value="mDialog.show();"/>
+			<item value="edit"/>
+			<item value="onpa"/>
+			<item value="Month_ori"/>
+		</list>
+		<list key="replacehistory">
+			<item value="ScheduleInfoList"/>
+			<item value="mScheduleList"/>
+			<item value="mList"/>
+			<item value="btn_calendar"/>
+			<item value="btn_home"/>
+			<item value="myTableListener"/>
+			<item value="TableListener"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="400" key="DIALOG_Y_ORIGIN"/>
+		<item value="653" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">行事曆</string>
+    <string name="new_nickname">暱稱</string>
+    <string name="login_account">帳號</string>
+    <string name="login_password">密碼</string>
+    <string name="new_login_account">新帳號</string>
+    <string name="new_login_password">新密碼</string>
+    <string name="login_password_confirmed">請再輸入一次新密碼</string>
+    <string name="password_check">輸入的密碼不一致</string>
+    <string name="account_check">帳號密碼錯誤</string>
+    <string name="account_dupicate">帳號已存在</string>
+    <string name="something_error">連線失敗...請稍候再試</string>
+    <string name="btn_register">註冊</string>
+    <string name="tab_contact_list">聯絡人清單</string>
+    <string name="tab_calendar">行事曆總覽</string>
+    <string name="tab_calendar_list">行事曆清單</string>
+    <string name="loading">下載中...請稍候</string>
+    <string name="my_calendar">我的行事曆</string>
+    <string name="calendar_list">行事曆群組</string>
+    <string name="my_contacts">聯絡人</string>
+    <string name="add_schedule">新增事項</string>
+    <string name="add_contacts">新增聯絡人</string>
+    <string name="add_calendar">新增行事曆群組</string>
+    <string name="TimePicker">設定時間</string>
+    <string name="edit">編輯</string>
+    <string name="delete">刪除</string>
+    <string name="share">分享</string>
+    <string name="cancel">取消</string>
+    <string name="save">儲存</string>
+
+</resources>
